@@ -1,0 +1,10 @@
+Hive state: Beehive Information:
+Queen: Queen Bee: 
+name: yuh
+nectar reserves: 0
+honey made: 0
+Number of eggs the queen can lay at a given time: 4
+Time passed since the Queen has given birth: 0
+Eggs Laid by the queen: []
+Bees:
+
